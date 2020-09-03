@@ -17,6 +17,11 @@
     "tdd": "ava --watch",
     "semantic-release": "semantic-release"
   },
+  "files": [
+    "vendor/",
+    "lib/*.js",
+    "template.nuspectemplate"
+  ],
   "dependencies": {
     "asar": "^2.0.1",
     "debug": "^4.1.1",
