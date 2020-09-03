@@ -1,6 +1,6 @@
 {
   "name": "@exodus/electron-winstaller",
-  "version": "0.0.0-development",
+  "version": "4.0.1-exodus.0",
   "description": "Module to generate Windows installers for Electron apps",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
